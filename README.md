@@ -33,7 +33,7 @@ Voici ce qui s'affiche à l'administrateur après avoir accédé
 L'administrateur a la possibilité de consulter toutes les ventes effectuées
 ![image](https://github.com/user-attachments/assets/1e898885-c5c2-4191-9ed5-5d8e5fb1cf3f)
 
-L'administrateu peut modifièr, supprimer 
+L'administrateu peut modifièr, supprimer dse ventes 
 ![image](https://github.com/user-attachments/assets/b0b9e3d9-afa2-41fc-bc81-283bb7ecf221)
 
 ![image](https://github.com/user-attachments/assets/d2d92371-fa9b-41f7-80be-6f88ef7a89c2)

@@ -30,15 +30,15 @@ L'administrateur saisit son nom d'utilisateur et son mot de passe pour accéder 
 Voici ce qui s'affiche à l'administrateur après avoir accédé 
 ![image](https://github.com/user-attachments/assets/ee735f0a-2ce7-4897-a48c-b0af04bdbb14)
 
-L'administrateur a la possibilité de consulter toutes les ventes effectuées
+L'administrateur a la possibilité de consulter toutes les ventes effectuées ainsi les produits disponibles
 ![image](https://github.com/user-attachments/assets/1e898885-c5c2-4191-9ed5-5d8e5fb1cf3f)
 
-L'administrateu peut modifièr, supprimer dse ventes 
+L'administrateu peut modifièr, supprimer des ventes 
 ![image](https://github.com/user-attachments/assets/b0b9e3d9-afa2-41fc-bc81-283bb7ecf221)
 
 ![image](https://github.com/user-attachments/assets/d2d92371-fa9b-41f7-80be-6f88ef7a89c2)
 
-Il peut aussi ajouter,supprimer,modifier les produits 
+Il peut aussi ajouter,supprimer,modifier des produits 
 ![image](https://github.com/user-attachments/assets/c2c9d8dd-6892-44e5-af17-a866d623eabf)
 
 
